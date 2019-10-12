@@ -1,0 +1,6 @@
+*~
+*compiled*
+emoji/doc
+emoji/scribblings/*.html
+emoji/scribblings/*.css
+emoji/scribblings/*.js
