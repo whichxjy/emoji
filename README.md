@@ -31,6 +31,10 @@ raco pkg install emoji
 raco pkg update --update-deps emoji
 ```
 
+## Documentation
+
+[docs.racket-lang.org/emoji](https://docs.racket-lang.org/emoji)
+
 ## Inspiration
 
 [emoji](https://github.com/kyokomi/emoji) - kyokomi
